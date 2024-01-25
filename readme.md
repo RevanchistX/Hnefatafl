@@ -9,3 +9,6 @@ Pronounciation: hNefa Tafl (add audio clip here) / Нефатафл
 ### Demo implementation of a 9x9 "Birka" variation.
 
 More info to follow.
+
+> SETUP
+> - Switch scenes after checkout
